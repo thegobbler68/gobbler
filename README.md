@@ -1,9 +1,5 @@
 - 👋 Hi, I’m @foster-int
-- 👀 I’m interested in crypto
-- 🌱 I’m currently learning crypto
-- 💞️ I’m looking to collaborate on crypto
-- 📫 How to reach me crypto
-- 😄 Pronouns: crypto
+- 👀 I’m interested in crypto and canucks hockey
 - ⚡ Fun fact: crypto
 
 <!---
