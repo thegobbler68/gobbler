@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @foster-int
 - 👀 I’m interested in crypto and canucks hockey
-- ⚡ Fun fact: crypto
+- ⚡ Fun fact: crypto is kewl
 
 <!---
 foster-int/foster-int is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
