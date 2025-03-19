@@ -1,7 +1,7 @@
 - Hi, I’m the gobbler
 - 👀 I’m interested in crypto and canucks hockey
 - ⚡ Fun fact: crypto is neato
-
+- here's a poem:
 class CodeGobbler {
     username: string = "the_gobbler";
 
